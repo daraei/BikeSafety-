@@ -1,0 +1,3 @@
+sqlalchemy <0.9
+setuptools-git
+geoalchemy

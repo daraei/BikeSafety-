@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Osm4routing
+Version: 1.0.6
+Summary: A simple tool to parse OpenStreetMap data to use them for routing
+Home-page: http://github.com/Tristramg/osm4routing/
+Author: Tristram Graebener
+Author-email: tristramg@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN

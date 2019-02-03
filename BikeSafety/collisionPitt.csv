@@ -1,0 +1,2 @@
+"CRASH_CRN","CRASH_YEAR","CRASH_MONTH","DAY_OF_WEEK","HOUR_OF_DAY","LOCATION_TYPE","MAX_SEVERITY_LEVEL","LONGITUDE","LATITUDE","SPEED_LIMIT","severity","safteyScore","betweenness","carLane","bikeLane","streetLength","car.reverse","bike.reverse","foot","between","edgeBetweenness","saftyScore","lss"
+2004004844,2004,4,3,99,0,3,-79.968,40.5325,30,"serious",0.325301204819277,

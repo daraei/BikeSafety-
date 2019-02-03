@@ -1,0 +1,12 @@
+osm4routing.py
+osm4routing_xml.py
+parameters.cc
+parse.cc
+parse.i
+setup.py
+Osm4routing.egg-info/PKG-INFO
+Osm4routing.egg-info/SOURCES.txt
+Osm4routing.egg-info/dependency_links.txt
+Osm4routing.egg-info/entry_points.txt
+Osm4routing.egg-info/requires.txt
+Osm4routing.egg-info/top_level.txt
